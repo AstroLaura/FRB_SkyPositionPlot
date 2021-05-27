@@ -16,7 +16,7 @@ The ipython notebook in this repo can be used to plot the distribution of FRBs o
 
 The DOI for this github repo is:
 
-
+[![DOI](https://zenodo.org/badge/371196045.svg)](https://zenodo.org/badge/latestdoi/371196045)
 
 <b>If you use the data or code in this repo, please make sure you cite it correctly!</b>
 
