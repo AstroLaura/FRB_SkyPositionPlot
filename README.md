@@ -1,6 +1,6 @@
 # FRB_SkyPositionPlot
 
-[Example FRB sky position plot](FRB_SkyPositionPlot/2021.05.27_FRBlocations_BlackFrame_viridis_r.png?raw=true)
+![Example FRB sky position plot](2021.05.27_FRBlocations_BlackFrame_viridis_r.png?raw=true)
 
 The ipython notebook in this repo can be used to plot the distribution of FRBs on the sky in Galactic coordinates. It includes a background map of the dispersion measure, with the option to use the YMW16 model or the NE2001 model. Pulsars from the ATNF pulsar catalogue can also be included.
 
